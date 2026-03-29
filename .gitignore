@@ -4,3 +4,4 @@ uploads/
 extracted_text/
 *.pyc
 .env
+data/pdfs/
